@@ -23,10 +23,7 @@
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "blockClass": "vintage",
-      "max-width":"1260px",
-      "margin":"0 auto",
-      "padding": "0"
+      "blockClass": "vintage"
       }
     },
     "info-card#button-left": {
@@ -40,10 +37,7 @@
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "blockClass": "metal",
-      "max-width":"1260px",
-      "margin":"0 auto",
-      "padding": "0"
+      "blockClass": "metal"
       }
     }
 }
